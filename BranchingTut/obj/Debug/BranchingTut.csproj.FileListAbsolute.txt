@@ -1,0 +1,7 @@
+C:\Users\Dean\Code_Vault\C_Sharp\BranchingTut\BranchingTut\bin\Debug\BranchingTut.exe.config
+C:\Users\Dean\Code_Vault\C_Sharp\BranchingTut\BranchingTut\bin\Debug\BranchingTut.exe
+C:\Users\Dean\Code_Vault\C_Sharp\BranchingTut\BranchingTut\bin\Debug\BranchingTut.pdb
+C:\Users\Dean\Code_Vault\C_Sharp\BranchingTut\BranchingTut\obj\Debug\BranchingTut.csprojAssemblyReference.cache
+C:\Users\Dean\Code_Vault\C_Sharp\BranchingTut\BranchingTut\obj\Debug\BranchingTut.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Code_Vault\C_Sharp\BranchingTut\BranchingTut\obj\Debug\BranchingTut.exe
+C:\Users\Dean\Code_Vault\C_Sharp\BranchingTut\BranchingTut\obj\Debug\BranchingTut.pdb
